@@ -11,6 +11,11 @@
 *	Edit this section
 *
 * ======================================================= */
+.sm_icon{
+
+  width: 50px;
+  /* the height is adjusted automatically*/
+}
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
@@ -76,7 +81,7 @@ figure {
   padding-top: 3em;
   padding-bottom: 40px;
   float: left;
-  width: 300px;
+  width: 320px;
   position: fixed;
   overflow-y: scroll;
   z-index: 1001;
@@ -439,7 +444,8 @@ body.offcanvas {
 
 .hire {
   padding: 2em;
-  background: #f9bf3f; }
+  background: #FFE4C4;
+}
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
