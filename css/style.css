@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal; }
 
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 .sm_icon{
 
   width: 50px;
@@ -21,6 +16,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
+  width: 165vh;
   color: rgba(0, 0, 0, 0.7); }
   @media screen and (max-width: 992px) {
     body {
@@ -1436,3 +1432,10 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+
+
+
+
+
+/* try */
